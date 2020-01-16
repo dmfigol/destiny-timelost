@@ -110,3 +110,4 @@ pip-wheel-metadata/
 .txt
 .vscode/
 *.txt
+!output/clusters.txt
