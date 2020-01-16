@@ -1,0 +1,2 @@
+class IncorrectSideError(Exception):
+    pass
