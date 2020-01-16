@@ -1,0 +1,212 @@
+row: 307 | https://drive.google.com/open?id=1oW3kOcbiXBYFLDG5zdLqwz4NYAuvNt7C | snake | PHSBBBD | -SHTDDCT- | -HCDSSBP- | **CSDTSDT** | -STPDCHT- | -SCTHDPC-
+row: 811 | https://drive.google.com/open?id=1dlAkTYSbrJPsPrm05V_6qLqMXFyrFIav | diamond | **TSHCBCT** | DHBBTSB | HSPDTHS | PSHTTHD | BCPSDHP | -**DTCHCDT**-
+row: 512 | https://cdn.discordapp.com/attachments/666873697763590144/666959380276838400/Hunter_Reveal_2_No_HUD.png | snake | BPCDHBS | -**DTHTPHB**- | -**DTCHCDT**- | BTBDBCH | BHCBCTD | -DCSDCBP-
+row: 354 | https://drive.google.com/open?id=1Z9iqPZOS5LvsfIv0TErNotMjxvE2zm4j | clover | **CSDTSDT** | HSSSHBH | SHHCHTS | **TSHCBCT** | -**DTHTPHB**- | BSDBDPT
+
+row: 345 | https://drive.google.com/open?id=1lQY20Wh7cXOY3lXNqNBXtyAHPcWcBZfs | blank | TDCPTPD | SCDTSCH | -TDDTCPT- | BDTSHST | -**PHTBCSD**- | **SHBPSTS**
+row: 365 | https://drive.google.com/open?id=1P9FjzDSV7gBry1XyajDgCjsqpBuuaNTq | hex | PPPHPSB | BHCBHBD | **SHBPSTS** | **DTCSCTP** | HPDSTTT | -HPCPPDD-
+row: 480 | https://cdn.discordapp.com/attachments/507380566769926144/666869811133022249/1085660_screenshots_20200115015253_1.jpg | blank | **DTCSCTP** | -**PHTBCSD**- | TTPTPHH | PPPDTCP | **TPDBSCS** | -PPSBCTS-
+row: 205 | https://drive.google.com/open?id=1NYkRgw2jOyEhabSqM-6mUVq7VSDCW3f9 | blank | PHPTBHD | **TPDBSCS** | -CPPDHBB- | PTPTCBP | THDSTCH | -DBHSCCC-
+
+row: 766 | https://drive.google.com/open?id=1Fbq4QWeaH7I3rAWjhKyDKvNHbzE_axBB | blank | -**TPTCTBP**- | BTTBHTB | STHDBBC | **SBDCTHC** | TCCBPSP | **PDSTHTC**
+row: 482 | https://drive.google.com/file/d/1s23FgaMHE-a5AChig5zlHg_OUfaP8l1m | clover | **SBDCTHC** | PCHTCSS | -BTBSBST- | SSBDDCT | PSSSHSB | -TDCHPPC-
+row: 733 | https://drive.google.com/file/d/16qSoM1gBmVygrQr4HS3Ae-iI9vdkEs3L/view?usp=sharing | blank | DBSCCTH | **CPDDSTC** | **PDSTHTC** | PCBDCTD | -CPCCPSB- | -DHBSTDC-
+row: 591 | https://drive.google.com/open?id=1uzRf78S7jNYSTW-AjFUauCJ6DuXVtFm0 | blank | HCBTTPT | -PPPSBSC- | -CPHSDPP- | -**TPTCTBP**- | **CPDDSTC** | -DBCHTDC-
+
+row: 705 | https://drive.google.com/open?id=1CZxJI-4tqw1w04gAe7p0US3s3Ry-Wvch | clover | HTBCHBB | **DBCPTDD** | -HCHSDPT- | CCHDHBH | -CTBHCDT- | -CCSCPSH-
+row: 795 | https://drive.google.com/open?id=10QX7uWtWPax941SgN4td1cZEXPovWaq3 | blank | PHDCPHP | -STHTPDS- | **TPDCCDT** | BBSDDCP | **DBCPTDD** | -BDPDTDS-
+row: 592 | https://drive.google.com/open?id=160VDL5k86_jy2Z5PHS0d9N1-AJ-T9sVe | blank | -**CPPCPCC**- | -SHDPHHB- | SPSCPSB | -HBHHTSS- | HDDSPCH | CDBTCTP
+row: 661 | https://drive.google.com/file/d/1javHy4HZbsXFCNKC_Tl2lTy2J6c3vosH/view?usp=sharing | blank | HCSDTBC | SHHHSPP | PCPPBCB | -**CPPCPCC**- | PSDDSBC | **TPDCCDT**
+
+row: 364 | https://drive.google.com/open?id=143mgSAfaKMEtaBHmsjQMNDAtzH32WTJH | blank | TDBDHHS | PSDDDSD | **SBHBTCD** | -HSPDDCC- | CHPHCDC | CPDBSCB
+row: 629 | https://i.imgur.com/SNh0roG.png | blank | **SPBBTCB** | SSPCCDD | -**SDHSTBC**- | CPSCTTB | PBDCTST | -BDTPTBP-
+row: 630 | https://i.imgur.com/m9CcRil.png | blank | -CBCPBSH- | -SCDBPSH- | STBBSPD | HPSCSPS | -BSSPPBS- | -**SDHSTBC**-
+row: 577 | https://ibb.co/VpzBTPf | blank | -HTCBDBS- | SHSTBTH | PDCDPSP | **SPBBTCB** | BSCTHSS | **SBHBTCD**
+
+row: 561 | https://i.imgur.com/KmrK68q.jpg | blank | PTDTCBP | DTBCSDD | CPCCTHS | DDPBSCD | -TTDTCTB- | -**SPPPBHH**-
+row: 13 | https://cdn.discordapp.com/attachments/666873697763590144/666891011095658508/unknown.png | hexagon | DBCSSCP | -DDSCHTP- | HTCPDCS | **SDPTCDC** | -TTDPHSD- | BPHBBDC
+row: 739 | https://gyazo.com/9fd66a7c353e76acbe379262a6afe1bc | blank | **SDPTCDC** | HTBHDPP | -**SPPPBHH**- | HDPPBSC | BCPDBPD | -PBPPHTS-
+
+row: 709 | https://gyazo.com/2267acbc5dd13ee688685a418a03c187 | blank | CSHPDTD | -**PSDDPPS**- | SSBTSBT | TTBDHHD | BDCDBSD | CTTPCTC
+row: 57 | https://cdn.discordapp.com/attachments/666872924967403550/666903499828756500/tiger_release_final_20200115_110257.png | hex | -**TDBTBHT**- | PDDBTSP | CDPSBCC | PPTPHTH | -**PSDDPPS**- | TDTBSST
+row: 750 | https://gyazo.com/b8128995f3a5009fbbc5bb6cd2b5a0bf | blank | -PSPSTPC- | THPSPCB | -SPPTC?B- | -**TDBTBHT**- | CCSDTTC | PCTCSHP
+
+row: 61 | https://cdn.discordapp.com/attachments/666872924967403550/666873336139087904/Corridor_piece_1-2pm.png | snake | PPTPPHC | **TCPCSSB** | HHSDCDT | CTDPHTP | -TPDSCCP- | -BTHCSCB-
+row: 102 | https://media.discordapp.net/attachments/608664159374016523/666958250255712278/MetaMeta.png | snake | **PSHPSSB** | HHCTBCD | -TCHDPST- | CPCHTTB | **TCPCSSB** | PCBTDPP
+row: 510 | https://cdn.discordapp.com/attachments/666873697763590144/666959248353394728/Hunter_Reveal_1_No_HUD.png | plus | BSHBCCC | DPSPHCS | PCCCPPH | **PSHPSSB** | -SDCSTTD- | -CBCSPBP-
+
+row: 363 | https://drive.google.com/open?id=1uyGuNNsbd0ky0HdM8isNTq2tm5UbRx9I | blank | PPSSSSB | -CPSTCDS- | PDDSHHS | BSTCCBB | **TSTCSPB** | -**BHSCDHD**-
+row: 595 | https://drive.google.com/open?id=1Wct-g9VnQqN7Wsq_IJ9w1Tj7DG_ziJ6W | blank | SPHTPCC | -DSHHDDH- | -**BHSCDHD**- | **SDDBSDD** | -CBTBBBT- | -HCHHPPC-
+row: 77 | https://cdn.discordapp.com/attachments/666872924967403550/666875481001295926/received_2477835729101233.png | snake | **SDDBSDD** | **TSTCSPB** | SPSBDPP | DBPDSHH | -PCDCHBT- | PPBHTCD
+
+row: 318 | https://drive.google.com/open?id=1QH20wv7QrfCE6pfe3eaCEUB6fgU_Kkgx | blank | THHHDPS | PCHTDBC | -STTBCHP- | **PBDPDPS** | BPHHBBT | TBPHCDD
+row: 574 | https://cdn.discordapp.com/attachments/666873697763590144/667011423435489282/Tem2.png | blank | **PBDPDPS** | -CBCSTTC- | HTBDHPD | **THPCDPB** | -SPCBSCB- | CBDDTSH
+row: 210 | https://drive.google.com/open?id=1Q72Z-El6o-hIqnaSqtktHtpCB4avsgUR | hex | **THPCDPB** | -TTDHTBP- | HPDCBCD | PPTSHHD | -HPHTDBP- | BCSCTSS
+
+row: 336 | https://drive.google.com/open?id=1TY4zQieFvFjkkaHK8TT_2h0n_mldAnBZ | blank | -**SBCCBTD**- | **TCPDHCB** | THSPSPP | -STCTHSP- | CPDPCPC | HTSSPBT
+row: 707 | https://gyazo.com/7ebbf096c84705930c5414947d122677 | blank | PDDHDDP | -BCCSSSC- | SSSCDHB | PBDCBTB | **TCPDHCB** | **TBTCCSP**
+row: 717 | https://drive.google.com/open?id=1mbXwjjuAlhcj12QX4naqLb9FohF7FDTT | blank | TSCCTSP | -HBBPSTS- | **TBTCCSP** | -**SBCCBTD**- | SPBPHBP | CCDTCDH
+
+row: 720 | https://gyazo.com/0a5e02ad7463de30aa9e2eedf05d1296 | blank | CPSBCBP | -TBSCTTC- | -TSSPBDD- | **SCHSBPT** | CPHCBBD | -HDCPCBB-
+row: 677 | https://drive.google.com/file/d/1ryllGncZAvUsJf541VYixdtOxt5PpaDm/view?usp=sharing | blank | **SCHSBPT** | CPTSDCP | -**BPSPBSH**- | PCDBCHC | -DHPHSBP- | -PDDSHCC-
+row: 793 | https://drive.google.com/open?id=15Uxitay4xC_vTe14fvAvKQeOsF26ibst | blank | -PSBTSSS- | CCSDBHS | -TBHDDPH- | DBCSBDH | -PBBTTTC- | -**BPSPBSH**-
+
+row: 525 | https://cdn.discordapp.com/attachments/666872924967403550/667001352437891083/20200115144036_1.jpg | diamond | DPHDDCC | -SPBDDDC- | CBBBHSH | **BDPSDCH** | -BPPDPTH- | -DTHDHBH-
+row: 5 | https://media.discordapp.net/attachments/425502020464803854/666883097848971275/unknown.png?width=1205&height=677 | snake | **BDPSDCH** | TSDBCTH | -PHCHBPT- | CPCHSSD | -PCTBPBC- | BPTBSDS
+
+row: 7 | https://cdn.discordapp.com/attachments/666872924967403550/666878785773240341/Destiny_2_Screenshot_2020.01.15_-_13.37.40.24.png | diamond | **BCHDBBH** | BCPTDPD | PBDHDCS | DHPCBBP | -HDPSPBS- | CBTCSHT
+row: 6 | https://cdn.discordapp.com/attachments/666873697763590144/666882490291716097/Destiny_2_Screenshot_2020.01.15_-_16.52.37.79.png | hexagon | DPBPBCH | HBSPDDS | TBTBPSP | **BCHDBBH** | -CCTDTPC- | THCHCCC
+
+row: 8 | https://cdn.discordapp.com/attachments/647769323556831233/667002918460850186/IMG_20200115_140033.jpg | snake | PHBHPDC | DPHHSSC | **PSPSPCS** | CDTPTDB | -TPHBSDS- | DBHBDSH
+row: 249 | https://drive.google.com/open?id=1zG9OkbfPgYfXSnY4NSjQrCC5xrBj_t_0 | plus | -CBBCHDB- | SSHPSPB | TBHBBPH | BHBTSHB | HSBHPPB | **PSPSPCS**
+
+row: 12 | https://cdn.discordapp.com/attachments/666723831024713739/666885430523854868/tiger_release_final_20200115_170157.png | hexagon | DBSPTSD | SSPTTTH | SSPCHCD | HTDBBDD | -**DSDDHBT**- | DDDHCDS
+row: 181 | https://drive.google.com/open?id=1z8fjigwrg1kRY8vYmOKouGlwuteDLuLh | clover | STDSHPT | -**DSDDHBT**- | -CHPCCST- | BBBBBBB | BBBBBBB | -PTHBHBB-
+
+row: 730 | https://drive.google.com/file/d/1u9WCcmHI_jPkAcho8U9DpIZsHeyQVfVh/view?usp=sharing | blank | **SSCHTHH** | -DCSHPCP- | HDBSPCD | HDDDDTB | DTDDPSS | -CSTDCPT-
+row: 20 | https://cdn.discordapp.com/attachments/378009570565423106/666898968613093386/unknown.png | clover | PBTPCDS | CSHCCHP | HSBCBHB | **SSCHTHH** | SBSCDDS | -BTSPSHS-
+
+row: 35 | https://media.discordapp.net/attachments/666867869510008852/666884552572010506/unknown.png | diamond | CSTTSCC | -THSCTCB- | SHSHSBD | -**TSCSHSH**- | DBTSCHB | BCSTHPB
+row: 659 | https://drive.google.com/file/d/1AypGljj4pleKyztSi0cpWV4E_51U7Vb1/view?usp=sharing | plus | -**TSCSHSH**- | BTHPTHP | DHBHTPS | STHCPCP | DBSPHPC | CSTSCPH
+
+row: 36 | https://cdn.discordapp.com/attachments/666873697763590144/666873838109196289/Destiny_2_Screenshot_2020.01.14_-_23.52.44.16.png | diamond | **STTTHPT** | -CHBBSTS- | SDTBCTB | BDCBCBC | -TCSHCTC- | SBBTBPT
+row: 81 | https://cdn.discordapp.com/attachments/666872924967403550/666877167073886249/2020-01-14_6.png | clover | HPSDHSC | DTDDCDD | SDPCTTD | **STTTHPT** | HHPTPHP | -DPCBPBT-
+
+row: 56 | https://cdn.discordapp.com/attachments/666872924967403550/666900663405510676/GG2.png | diamond | -SPPHPPH- | DHPCHPD | STDPSSH | SCHDPHB | **TBHCSBH** | -TCHDHSB-
+row: 207 | https://drive.google.com/open?id=1H37sfaqfpJf2EWK3-xFxjH3DAPK0sKIU | clover | PSCDTPH | **TBHCSBH** | DTDTTSC | HCHSTDH | -BPSSHBC- | TSCHHST
+
+row: 64 | https://cdn.discordapp.com/attachments/666872924967403550/666878503093927956/tiger_release_final_20200114_213339.png | clover | CPBSDSD | -**TBCHDTH**- | SHCDPCC | TDTTTSB | SDBCCHP | -DCPPSPS-
+row: 174 | https://drive.google.com/open?id=1Gx1MiPotmo3V0AEAxarofmJHvG2NSV6n | blank | DHHBBBC | BBBBBBB | BBBBBBB | TDHDHCB | -**TBCHDTH**- | CDBSSTS
+
+row: 643 | https://i.imgur.com/spueF0b.png | blank | CBDDBTD | -TCPDBHS- | BBBBBBB | BBBBBBB | BBBBBBB | **HBHSBHC**
+row: 73 | https://cdn.discordapp.com/attachments/666872924967403550/666875127560011777/20200114232012_1.jpg | snake | PPTTPPC | -CHPDHTS- | **HBHSBHC** | BBBBBBB | BBBBBBB | BBBBBBB
+
+row: 334 | https://drive.google.com/open?id=1w5iTZj9fCK1npMQqCpWy1AM4S3Zg1sov | clover | TDHCDSS | -**HDBCDBH**- | -BSTDHPB- | BDDTHHT | BDDPTDB | -CPDDBSH-
+row: 74 | https://cdn.discordapp.com/attachments/666872924967403550/666875155095617548/tiger_release_final_20200114_230346.png | hex | -CPPCHHC- | BCBBBTP | BHCSHBT | CCTBDST | -**HDBCDBH**- | DDPTBBB
+
+row: 75 | https://cdn.discordapp.com/attachments/666872924967403550/666875183784787969/tiger_release_final_20200114_232157.png | snake | HHSSSHT | DTPPDHT | -**HHBHDDS**- | DBPSBPC | SDBDSTB | -DBHTPSS-
+row: 581 | https://cdn.discordapp.com/attachments/666873697763590144/667018149157404673/Hem2.png | blank | SDDHPDH | PBTCSCD | TPCSCTS | PTHHPCH | HDSTPBC | -**HHBHDDS**-
+
+row: 80 | https://cdn.discordapp.com/attachments/666872924967403550/666876971892080690/unknown.png | plus | **BDHBSPB** | TBBSSHH | -CCCPBTH- | -HDTTSTS- | BCPHBTD | -PTCPPHT-
+row: 485 | https://i.imgur.com/t796FVk.png | plus | HHTBSSP | BDSSSBP | -TBPTDTB- | **BDHBSPB** | -TTBBPSB- | HPPSDDT
+
+row: 640 | https://imgur.com/gallery/usAiVnE | blank | CPSSPCH | -**BPDDBHS**- | SDBTTBS | CSBDTCD | -DBSPBBH- | -HCHHPSC-
+row: 85 | https://cdn.discordapp.com/attachments/666872924967403550/666877930886004742/tiger_release_final_20200114_213028.png | plus | BTDPSBT | -PDCCBHT- | BSHHHDB | BCCPPCC | -**BPDDBHS**- | -PCBPSSH-
+
+row: 474 | https://cdn.discordapp.com/attachments/666872924967403550/666955550013259776/unknown.png | snake | DPCDCBC | -SSHBBDS- | **TPSSPSH** | DCBTHCC | PBTDCDB | -CCHCCTP-
+row: 88 | https://cdn.discordapp.com/attachments/666873697763590144/666933327831236618/Hour_16_Reveal_No_HUD.png | diamond | THCCTTD | CSPDDTH | CHCHSBP | SHPPCHH | -BCPDPBB- | **TPSSPSH**
+
+row: 89 | https://cdn.discordapp.com/attachments/576286039526735892/666935538904989704/TimeLost_vault_lvl2_plus_1_hunter.png | plus | SCBTDHT | -CDDSHHD- | DPHTBHD | HPBSSPT | **DDPPTDC** | -TSBCTST-
+row: 352 | https://drive.google.com/open?id=1okaRPJ36aHasX0OZ_7GGUsB5a2wp3ewH | hex | HPCSDSC | **DDPPTDC** | -HBCBDSP- | -CTDPTCH- | -HHCPCPS- | -CHBBTCB-
+
+row: 532 | https://cdn.discordapp.com/attachments/666873697763590144/666912228271718410/Destiny_2_20200115084508.jpg | blank | **HCCPPHS** | STTPTTD | BDHCTBS | HHTHDPS | -DCTCTCT- | CHTCTBH
+row: 113 | https://steamuserimages-a.akamaihd.net/ugc/775116677143668521/DA5CBF3A1D9C2ECAA8E57D8375A8BE9A56D241AC/ | blank	 | BDHTPSB | DDHHBTS | -TBTTCTC- | **HCCPPHS** | BDDSDSH | SBPHDSH
+
+row: 138 | https://drive.google.com/open?id=15SJ78hGi4IaeofkZB9vdcBo0oxfpZUfv | blank | HCSTDST | SCCBBCS | BBBBBBB | BBBBBBB | BBBBBBB | -**BTDHSSH**-
+row: 144 | https://drive.google.com/open?id=1L5DLxMDoLHelsMTwL2LWHEiEzNHzb08k | snake | SDCPHDT | CCPSPSP | -**BTDHSSH**- | BBBBBBB | HSDPSTC | -DDSPBHH-
+
+row: 234 | https://drive.google.com/open?id=1bz3DxbS6OVyQxO2dBEFW1dPWSiFRvfrT | clover | BCSHTBC | PCSPHTB | -SBPBCPB- | **TTBBPTP** | -BBHHPST- | -TDCPSBD-
+row: 700 | https://gyazo.com/64d854e605918c9d4dc70563aae10c7d | blank | **TTBBPTP** | -BHHSBDC- | PBSCPDB | CSDPPTP | SBCCBST | BCHCDTT
+
+row: 727 | https://gyazo.com/66a38750577a8f9d5650df710b8e33b3 | blank | CBBBTSH | DSHCCDH | TTTCHBB | SPSSSHS | -**CBCDHBB**- | SCTCSDC
+row: 255 | https://drive.google.com/open?id=1ZQsK3PbL6ZdfBH5lXnbVuwLx1-NJKL1v | diamond | HDCHPDH | -**CBCDHBB**- | DSPSHCH | DSCHSBT | -DPSBTST- | HBPDBTC
+
+row: 719 | https://gyazo.com/38f870c2ee705523e605eba9203591d7 | clover | BPHHDTD | -TCCSDST- | HTDCBHD | -BDHTSBD- | **STHPBPD** | TPCDHHH
+row: 283 | https://drive.google.com/open?id=1PCmyCzeyd8X-mRjANQCz8n1EOobcA-C5 | clover | -PSTTCBD- | **STHPBPD** | DBPDHHH | -CBHTTDS- | PBBDTCB | BSDBCPD
+
+row: 314 | https://drive.google.com/open?id=1SQ7yeE1AJYNzSHrc-iOWhNT-CIDd1vbI | hex | **CSCHPTB** | CBHDSSH | SCCTCTS | -HTCDDHC- | CCPTPCB | SPCTHBH
+row: 305 | https://drive.google.com/open?id=10X7KBCm7bQi311JGltKOtmyqraJVES-h | blank | TCSBTTC | SPBDPHB | DCDTS?C | **CSCHPTB** | -PBCHSST- | DSTTTDT
+
+row: 740 | https://drive.google.com/open?id=1rgTYRcjt86AlD39ODQXEP5yMhCK-stDO | blank | SPBSDHP | **DSBTHDH** | -DSCHBHB- | SSHTSTP | TSCBSCD | HSBDTBB
+row: 349 | https://drive.google.com/open?id=1F2B7ZdCu7oZb1EluHbUpW3SVMzxZd__V | snake | TSPCBBB | SPHCCSS | -PHBPBPS- | PPSCTSB | **DSBTHDH** | -CDBCSPD-
+
+row: 721 | https://gyazo.com/36fd942711c857103c48b184a4a197a9 | blank | **DBHSHST** | -BCCCPDH- | -HHSCBDB- | PCSDDHD | SSTHBHS | SBHHBPC
+row: 476 | https://cdn.discordapp.com/attachments/597810935087759371/667006662468698125/tiger_release_final_20200115_150019.png | diamond | -PBTBCPB- | DHSTPHH | -BBBSDTH- | **DBHSHST** | BDPTCTS | HPCCPCD
+
+row: 731 | https://drive.google.com/open?id=1gizY4O8PZw_HtQx2DMKjMMF-cJ3fLznV | blank | -PBCDHDB- | -SDSHSDS- | **HTCBBTH** | HBHCTSB | CTDHCBB | -STCHSCS-
+row: 495 | https://cdn.discordapp.com/attachments/666873697763590144/666982138154844170/titan2.jpg | snake | DBSTPDH | -CCDHBTC- | PBPTCCT | CHHCBHH | -HPCBDCT- | **HTCBBTH**
+
+row: 635 | https://ibb.co/5FmFRjB | blank | -**DHHPDBC**- | TBCTSHC | -DTPDHSD- | PDDPCTC | HPHPPDB | CSDHPPH
+row: 516 | https://i.imgur.com/UJLmblT.jpg | clover | DHPTHHP | DBHCSPH | -CCTTTHH- | -**DHHPDBC**- | CHSHSCT | -TCDSPPB-
+
+row: 527 | https://cdn.discordapp.com/attachments/666873697763590144/667003871155191821/corridors_4.jpg | plus | -**DCBTBHD**- | HBHSBCT | DPBHDHT | -SBBSPBH- | SSSBBCD | HTSSPHS
+row: 746 | https://drive.google.com/open?id=1dI1V1Pfysk8QUuc1v8z3kmk9CukXtU5K | blank | HCCPHSP | -BBCTHCC- | DHSCCDD | -**DCBTBHD**- | -BTHPHTP- | PDHSBHB
+
+row: 715 | https://drive.google.com/open?id=1_tELqYxt6ZXXuB8cNY1q8QA2jR0eraxa | clover | BPBSBTP | HBHTDPD | **CPCSBHB** | -HPBSTTC- | PCSHSSD | -CTDDBCD-
+row: 604 | https://gyazo.com/4dc3bd808a279a43ecf38564067fa543 | snake | DSSSHHS | HPTHTSD | -SBSCHBH- | PSCDSDH | -DSHBBHP- | **CPCSBHB**
+
+row: 686 | https://gyazo.com/748af36903692d5e14bfaeae166311a0 | diamond | -PTBHBBD- | SCSSPCT | **BDTCBCP** | -THDTSDH- | BSTHCCT | SPCCBDD
+row: 165 | https://drive.google.com/open?id=1i4EHIRUkycOhFS2xaXgX1Z4R5qgv6NPZ | blank | -BCTHSCB- | BBBBBBB | BBBBBBB | PSCDTST | CBPSTSD | **BDTCBCP**
+
+row: 687 | https://drive.google.com/file/d/1i7AF_1Guu6-lu0cW8_ylVxovxpJPAYZO/view?usp=sharing | hex | -DSBTTCC- | SPTSHSC | **HHCSHBC** | BCTCPCT | DCPSHTD | SCSBHHT
+row: 160 | https://drive.google.com/open?id=1UV2Z4x5k1vFH6JlS3Tecc8PUEm2pz9_q | blank | CHTBBBH | -SPCBCHS- | SCHBTCS | -PPSCSTP- | PDCPHDD | **HHCSHBC**
+
+row: 691 | https://drive.google.com/file/d/16kKdG0DgvszHz9kXXFTf9cJRAvbbsXKR/view?usp=sharing | blank | DTCBDDH | DPPDSTD | -HTTSSCH- | PCCSSPD | CHSHBTH | **SSDCHHS**
+row: 698 | https://imgur.com/a/0VXmuKV | plus | TBHDHSS | -TPBHPHT- | **SSDCHHS** | DTCDPTT | -DTPCTDB- | -PHBPCPD-
+
+row: 285 | https://drive.google.com/open?id=1s_yXdD5nvabuBaIaYwH0xyBwowVkTcKZ | blank | DSSSDCP | -CPDTHPT- | THHCDSH | -**BHDTBCB**- | HPBCSCC | -HDDBTCC-
+row: 737 | https://drive.google.com/open?id=1x41Pz1yqvPuI4LUKf8I-EGCxLaVz3aXK | plus | -**BHDTBCB**- | BPTPSHS | BSDCCSP | -CBCSTPB- | BPPBBDB | BPDPCDC
+
+row: 751 | https://gyazo.com/8116e4bd4eba9986b5050c2d7010fc59 | plus | -DCHSTPP- | BPPPHHP | BHPDTST | **CSTTPDB** | DTTBCST | PBSCTCS
+row: 323 | https://drive.google.com/open?id=1Q2TENsAjWlnU8_n0fRR93XqUVTYGZYoI | blank | **CSTTPDB** | -PTSPDHP- | SDHTDBP | SSHCHBB | CBSHHPP | CDCPSDP
+
+row: 736 | https://drive.google.com/open?id=1YsMLQUEqxV_EyeOsVwLZOYVa7RkxTaIx | blank | BBBBBBB | BBBBBBB | CPCHSCH | -**SDHCPCD**- | CTBPHCT | BBBBBBB
+row: 794 | https://drive.google.com/open?id=1tUrjpg2j1TNkHM_HynFPg8ysPyYc3RFZ | plus | -**SDHCPCD**- | -HDPPCTC- | -CPDSPHT- | TPSSTCP | -CPHBSCD- | -HCPPDSB-
+
+row: 137 | https://drive.google.com/open?id=1-mUYHmjY2yCoyUSHN0tyGIY3Jq2O5fU7 | blank | -PSTPHPT- | **DBDTBHD** | BBBBBBB | BBBBBBB | BBBBBBB | SDTHPSS
+row: 694 | https://drive.google.com/file/d/1Cq0huTdxuXVFWIW6FqAoOMv02E7SAgzU/view?usp=sharing | blank | PCHBTHP | -TSCCHHS- | CHSBPDP | BBBBBBB | **DBDTBHD** | PCTCHCH
+
+row: 753 | https://gyazo.com/7b6a8fb2c57085b2fe4250798d5be5ca | blank | -CSDBSBB- | DSBCDSS | -BTTPHBH- | -**CSHDTTP**- | BDBPHDB | CPPBDHD
+row: 143 | https://drive.google.com/open?id=14HQRElUC9JwSSdxQE6AjBzsZmom-AYWO | blank | -**CSHDTTP**- | DBPHSCP | -PDHSTPH- | BBBBBBB | BSHBPHC | HBBCDHH
+
+row: 154 | https://cdn.discordapp.com/attachments/666873697763590144/666991978667573288/20200115233656_1.jpg | blank | SBPHBPD | BBBBBBB | BBBBBBB | SHCTDPP | **PCSHCBT** | -TTBBCCD-
+row: 622 | https://drive.google.com/file/d/1Tmc4UebX_gUxzdHFCwQCToGBXgcOFPjA/view?usp=sharing | blank | -SHCBCCT- | **PCSHCBT** | -DBCDPBD- | -PDCHBTH- | -SBCPCBP- | SCCCPBS
+
+row: 155 | https://drive.google.com/open?id=1ZDxWsO-7CGjFrtkqvTyH6YxaK4JrXXFv | blank | **BCBSDSH** | BBBBBBB | BBBBBBB | HDCPHHB | -HHPHBSD- | SSDBHTS
+row: 732 | https://gyazo.com/ffaffbcab0f98364b08b615949a8e6e0 | blank | -CCBDTCP- | BBBBBBB | BBBBBBB | **BCBSDSH** | CCPCSCH | PDPBBSC
+
+row: 179 | https://drive.google.com/open?id=1cJ71otaGf26nU6ufmzAzzrLwluqiuWOf | blank | -TBTHSPH- | **PCPPSHC** | -TCDTDCB- | PHPBTSB | BBBBBBB | BBBBBBB
+row: 369 | https://drive.google.com/open?id=1SS44G7NgIxQhDuR5zh0KILFa4L0ylArt | blank | PPBTCBC | CBPHDDT | -CDHTTSD- | PSCPCSB | **PCPPSHC** | BBHTTPT
+
+row: 535 | https://cdn.discordapp.com/attachments/666873697763590144/666975010488975372/FreezingDartEmblem.png | blank | PBBHTTS | -PCHPCDB- | CSBCTDH | -PSHDCBT- | CPPDDBC | -**CSHHCSB**-
+row: 197 | https://drive.google.com/open?id=1RJqMMmzlFMiYz8_gzDFZmSIRf0N-QO_t | blank | DTPDBBT | CBDSHSC | -**CSHHCSB**- | BHTCSPD | HBDSBSD | HBHPTPB
+
+row: 198 | https://drive.google.com/open?id=152G7-BMemeYDE8mfNGqZ9LY2HbR_VvGz | blank | TBDHBHT | SSCPDPC | -TDHPBDB- | BDPBBBS | **BCHBPBT** | BBPHBPS
+row: 265 | https://drive.google.com/open?id=1Uu0e9E5ABvIfcne8u-zyVTCCy0K4uQIU | blank | -CSTPHCS- | **BCHBPBT** | TTTBSTB | PSBTHSP | -SHTBCHT- | -CHSBDTB-
+
+row: 289 | https://drive.google.com/open?id=1_MWx0ivMWkxlt31poS7YkZPhJ1x2IHu3 | blank | BTTHCPC | CBTHPHD | SPTDBDH | -**HHHBHCS**- | -DTHHHPS- | DSTDHCH
+row: 238 | https://drive.google.com/open?id=1WOwmJ9VkCONc_p2IKsXH8RiifEoDspDZ | blank | -**HHHBHCS**- | -CHDDBDB- | -DCBTTDP- | CBTBBSH | PDDHTTB | DDCDBDB
+
+row: 570 | https://cdn.discordapp.com/attachments/666873697763590144/667005809221435442/Tem1.png | blank | BDPPDCP | DHBPDHH | TSPDSBB | -**CCBDDSD**- | HDBSPTB | CSHBTCD
+row: 261 | https://drive.google.com/open?id=1DEUVdAWjorFZC4waUA6bp-raG8essGuZ | blank | -**CCBDDSD**- | -SHPTTDS- | CCHCPTT | THPBDHP | -HSPTDHH- | -PSPBPPD-
+
+row: 267 | https://drive.google.com/open?id=1IRSoklgWsb60GnSNA311Z8ZaxxjRV08O | blank | **CCPDDSB** | -DDPBDPC- | CHHSDPT | TSBHPTS | BDHSSCP | SBSDSDS
+row: 439 | https://media.discordapp.net/attachments/666873697763590144/666874700823003138/tiger_release_final_20200115_045656.png?width=1128&height=635 | blank | -TTTTHHC- | -TTDTCHP- | DCHDDBT | **CCPDDSB** | -PPSBDPT- | -BSHDHDD-
+
+row: 274 | https://drive.google.com/open?id=1vgeHDGY31RkMz8G6ctrWtKWz9Lkg4m5S | blank | **CSPDCSP** | -TBBHBDS- | HCPBSHP | DTPDBSP | SSHBPBT | CBPSDHS
+row: 718 | https://drive.google.com/open?id=1SZmzUcYhp7gUam42D8vOmTP_6l3yZSDq | blank | -CHCHHST- | HPBPDTS | -BCDHTCB- | **CSPDCSP** | DCHTBHP | -BTCTCSP-
+
+row: 680 | https://drive.google.com/file/d/11j8oZZNBDONkJaurvczPHrFt-_Nlw0yG/view?usp=sharing | blank | DBPPHPD | -CBDCBPH- | **HHCBCCP** | TDPBSHC | HHPSBHS | BDBCBTH
+row: 296 | https://drive.google.com/open?id=1hyd59YKW2eFe1Ab5orJwa3nmeYoc0f_R | blank | CTHHDTB | TSPSHSH | -SDBCTBS- | DPHTHPH | PHPSTTS | **HHCBCCP**
+
+row: 671 | https://drive.google.com/file/d/1qVxUmhcoZhKelj1SLid0nrmiemftyBkg/view?usp=sharing | blank | -DTHCPHC- | **PTTSCPC** | -DPSPDBH- | -PTCTSHT- | TPHPTPD | TBCDHTD
+row: 320 | https://drive.google.com/open?id=16qX3Yi8xiEGeuQ7xrxIw84qroeEa9kWB | blank | -DBTBPHC- | CHTTSBP | SPTCCBS | HPPSSHP | **PTTSCPC** | SHSSCCP
+
+row: 483 | https://i.imgur.com/CJ1vXmV.jpg | blank | HBDHHTC | BHHCSCD | PCTHSTD | -**BTSBSCC**- | SHCDTCB | -DBPHSSH-
+row: 332 | https://drive.google.com/open?id=1F1gyMIRKvzPavgAd8Uzfu5P-UXQ4i9q6 | blank | -**BTSBSCC**- | HDTTBDT | -SCSPCTC- | HCBDHPH | SSCBCTS | -BHDSDTC-
+
+row: 664 | https://drive.google.com/file/d/1y0Df-e9Uahus7pPhI4L8q9QjwKXE9z8I/view?usp=sharing | blank | CHBCDPB | -CDSCPHD- | -HCBPSBH- | PPPPDCS | TTSHCTT | -**HPTBHTS**-
+row: 357 | https://drive.google.com/open?id=1tMgTUpFCSlUyfUqymmv1tkCPlArXhTIH | blank | CCTBSHC | BHBCBDC | -**HPTBHTS**- | STHHDDS | -SCHPDBD- | BPBSTPT
+
+row: 395 | https://cdn.discordapp.com/attachments/666872924967403550/667008073050882077/20200115192054_1.jpg | blank | **BCHBHTT** | BPCSBBD | -PPSBSBP- | SPSDPTP | DDPCTHP | SHHPCSD
+row: 497 | https://drive.google.com/open?id=1XA7fxxvJCOgo_rnecU_gXhBDlEF2MMSj | blank | DBBBDPS | -PCTSCDP- | BSHHHTB | -**BCHBHTT**- | SCCTTHB | SBTPHPT
+
+row: 662 | https://drive.google.com/file/d/1EiybJAuXEKd9uSubzjP7N7RRIctRwioI/view?usp=sharing | blank | CHDCDSB | **DBCCCSP** | -DCBCPSH- | STTTTDB | SHTSDDB | DCTHCDP
+row: 427 | https://cdn.discordapp.com/attachments/563715872083148810/667012149356527626/tiger_release_final_20200116_002404.png | blank | -TTSSCBC- | -CPHPPPP- | TTPBDBB | DCDSPTD | **DBCCCSP** | BTBTDPH
+
+row: 598 | https://drive.google.com/open?id=1Qti-ECEOPct-nNxhhFcTFkNT6s5vvm8F | blank | **DBSSCPD** | SBSPTDC | SHTCPHH | BBBBBBB | -HTBDPHD- | PDBCBSC
+row: 775 | https://drive.google.com/open?id=1Ayi-hxyzK38iC5Jy3wRY9FW1fz9i6AAV | blank | -TDPTTDD- | PHSPBHD | -BDDDTPS- | **DBSSCPD** | -HPDBBCS- | CTCBCDP
+
+row: 734 | https://gyazo.com/4e702f86adb2b6e954a84365c0fcfd18 | blank | BPPSTSC | -BCSBBTP- | **CDBTPDD** | DSSTHDH | -DBPHPTP- | -CSCPTSP-
+row: 689 | https://drive.google.com/file/d/1HdlFnLqLeVk5BpUWfKmkQhzrcLpuAIy7/view?usp=sharing | blank | HTHSTBP | -BBBHPCP- | PDBCTCD | TBPHSCT | -DCCTDSS- | **CDBTPDD**
+

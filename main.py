@@ -119,7 +119,7 @@ async def main() -> None:
     url_to_node, side_id_to_node = await fetch_and_parse_sheet()
 
     found_links, clusters = parse_nodes(url_to_node, side_id_to_node)
-    async with aiofiles.open("clusters.txt", "w") as f:
+    async with aiofiles.open("output/clusters.txt", "w") as f:
         for cluster in sorted(clusters, key=len, reverse=True):
             if len(cluster) >= 2:
                 for node in cluster:
